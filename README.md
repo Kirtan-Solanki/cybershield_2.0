@@ -1,4 +1,4 @@
-👋 Hi there! For any professional inquiries or collaborations, please reach out to me at: your.email@domain.com
+👋 Hi there! For any professional inquiries or collaborations, please reach out to me at: kirtansolankiit@gmail.com
 
 📧 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English!
 
@@ -11,13 +11,15 @@ Kali Linux (Recommended)
 🛠️ Installation
 With Github
 bash
-git clone https://github.com/yourusername/cybershield.git
+git clone https://github.com/yourusername/cybershield_2.0.git
 cd cybershield/
 chmod +x install_dependencies.sh
 ./install_dependencies.sh
 Manual Installation
+
 bash
 pip install -r requirements_advanced.txt
+
 📚 Usage
 Basic Target Scan
 bash
@@ -28,6 +30,7 @@ python3 cybershield.py -t localhost
 Advanced IoT Device Discovery
 bash
 python3 cybershield.py -t 192.168.1.0/24 -m iot
+
 📈 Example Output
 text
 ╔══════════════════════════════════════════════════════════════╗
@@ -68,6 +71,7 @@ blockchain - Cryptocurrency and blockchain security
 cloud - Cloud misconfiguration detection
 
 🛡️ Legal & Ethical Usage
+
 ✅ Permitted Usage
 Security research and education
 
